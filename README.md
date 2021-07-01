@@ -1,2 +1,2 @@
-# aic
-Automatic Issue Classifier (AIC) automatically assigns labels to GitHub issues.
+# Automatic Issue Classifer (AIC)
+Automatically assigns labels to GitHub issues.
