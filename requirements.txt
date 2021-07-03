@@ -25,6 +25,7 @@ decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_16211876
 defusedxml @ file:///home/conda/feedstock_root/build_artifacts/defusedxml_1615232257335/work
 dill==0.3.3
 docker-pycreds==0.4.0
+python-dotenv==0.18.0
 entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1605121927639/work/dist/entrypoints-0.3-py2.py3-none-any.whl
 filelock==3.0.12
 Flask==2.0.1
