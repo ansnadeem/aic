@@ -9,3 +9,6 @@ The original list can be found at https://spectrum.ieee.org/static/interactive-t
 
 2- Issues from the repositories extracted in the first step are collected by running the 'Extract issues' notebook.
 This fetches information for the repositories such as body, description, labels, etc. 
+
+
+The dataset we extracted for our research, is available via kaggle at https://www.kaggle.com/ansnadeem/github-issues
