@@ -90,6 +90,7 @@ pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_15932751
 pydeck==0.6.2
 PyGetWindow==0.0.9
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1620245170812/work
+pyjwt==2.1.0
 PyMsgBox==1.0.9
 pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
 pyparsing==2.4.7
