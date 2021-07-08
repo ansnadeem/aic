@@ -7,3 +7,6 @@ This repository presents our work towards our transfer learning framework for cl
 - The notebook 'model.ipynb' contains the filtering, cleaning, model contruction, training and evaluation tasks for our ML pipeline.
 - The directory 'app' contains the source for the GitHub app
 - The 'requirements.txt' contains all the python packages that we use
+
+
+Looking to install the application? Head over to https://github.com/apps/automatic-issue-classifier
